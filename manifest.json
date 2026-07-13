@@ -1,7 +1,8 @@
 {
   "name": "配送日報",
   "short_name": "配送日報",
-  "start_url": "https://script.google.com/macros/s/AKfycbwgepBY3SRuYP31KJgheSLNS7OpDEEjaGQd4e5hjfWRsE3pSR46nFIpusxIntl8RiuoXQ/exec",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
