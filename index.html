@@ -5,11 +5,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>配送日報</title>
 
-  <!-- ホーム画面アイコン -->
+  <!-- ホーム画面アイコン（iOS） -->
   <link rel="apple-touch-icon" sizes="192x192" href="./icon-192.png">
   <link rel="icon" type="image/png" sizes="192x192" href="./icon-192.png">
 
-  <!-- ホーム画面から開いた時にフルスクリーン表示にする -->
+  <!-- PC（Chrome/Edge）でアプリとしてインストールするための設定 -->
+  <link rel="manifest" href="./manifest.json">
+  <meta name="theme-color" content="#ffffff">
+
+  <!-- iOSでホーム画面から開いた時にフルスクリーン表示にする -->
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
   <meta name="apple-mobile-web-app-title" content="配送日報">
