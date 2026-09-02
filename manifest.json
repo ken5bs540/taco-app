@@ -1,6 +1,6 @@
 {
-  "name": "配送日報",
-  "short_name": "配送日報",
+  "name": "DriveLog",
+  "short_name": "DriveLog",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
